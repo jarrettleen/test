@@ -1,3 +1,3 @@
 # test jarrettLee
-Manual details
+Manual details 哈哈哈
 dasdas
